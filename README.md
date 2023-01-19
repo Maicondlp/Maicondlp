@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Maicon+Daniel;Tenho+28+anos+de+idade;Sou+graduado+em+Sistemas+de+Informação;Pós+graduado+em+Segurança+da+Informação!)](https://git.io/typing-svg)
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maicondlp&theme=github_dark&show_icons=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maicondlp&theme=vue-dark&show_icons=true)
 
 
 <div align="center">
