@@ -1,16 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2596be&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Maicon+Daniel;Tenho+28+anos+de+idade;Sou+graduado+em+Sistemas+de+Informação;Pós+graduado+em+Segurança+da+Informação!)](https://git.io/typing-svg)
 
-<div align="center">  
+
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maicondlp&theme=github_dark&show_icons=true)
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{maicondlp}/count.svg" /></p> 
+<br>
 </div>
 
-- 👽 Atualmente estou trabalhando como Pentester.
-- 📚 Estudando sobre Python🐍e Linux🐧...
-- 😎 Faço freelances como pentester e desenvolvimento de sites.
 
-<div> 
-  <a href="https://www.youtube.com/@lalamikgames5997" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/maicondaniellp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=footer"/>
