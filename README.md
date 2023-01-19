@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2596be&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2596be&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Maicon+Daniel;Tenho+28+anos+de+idade;Sou+graduado+em+Sistemas+de+Informação;Pós+graduado+em+Segurança+da+Informação!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Maicon+Daniel;Tenho+28+anos+de+idade;Sou+graduado+em+Sistemas+de+Informação;Pós+graduado+em+Segurança+da+Informação!)](https://git.io/typing-svg)
 
 - 👽 Atualmente estou trabalhando como Pentester.
 - 📚 Estudando sobre Python🐍e Linux🐧...
