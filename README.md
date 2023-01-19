@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da379&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Maicon+Daniel;Tenho+28+anos+de+idade;Sou+graduado+em+Sistemas+de+Informação;Pós+graduado+em+Segurança+da+Informação!)](https://git.io/typing-svg)
 
@@ -13,4 +13,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da379&height=120&section=footer"/>
